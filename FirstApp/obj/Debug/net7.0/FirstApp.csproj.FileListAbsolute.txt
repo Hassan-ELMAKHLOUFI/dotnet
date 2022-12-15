@@ -1,0 +1,15 @@
+/home/hassan/Bureau/FirstApp/bin/Debug/net7.0/FirstApp
+/home/hassan/Bureau/FirstApp/bin/Debug/net7.0/FirstApp.deps.json
+/home/hassan/Bureau/FirstApp/bin/Debug/net7.0/FirstApp.runtimeconfig.json
+/home/hassan/Bureau/FirstApp/bin/Debug/net7.0/FirstApp.dll
+/home/hassan/Bureau/FirstApp/bin/Debug/net7.0/FirstApp.pdb
+/home/hassan/Bureau/FirstApp/obj/Debug/net7.0/FirstApp.csproj.AssemblyReference.cache
+/home/hassan/Bureau/FirstApp/obj/Debug/net7.0/FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/hassan/Bureau/FirstApp/obj/Debug/net7.0/FirstApp.AssemblyInfoInputs.cache
+/home/hassan/Bureau/FirstApp/obj/Debug/net7.0/FirstApp.AssemblyInfo.cs
+/home/hassan/Bureau/FirstApp/obj/Debug/net7.0/FirstApp.csproj.CoreCompileInputs.cache
+/home/hassan/Bureau/FirstApp/obj/Debug/net7.0/FirstApp.dll
+/home/hassan/Bureau/FirstApp/obj/Debug/net7.0/refint/FirstApp.dll
+/home/hassan/Bureau/FirstApp/obj/Debug/net7.0/FirstApp.pdb
+/home/hassan/Bureau/FirstApp/obj/Debug/net7.0/FirstApp.genruntimeconfig.cache
+/home/hassan/Bureau/FirstApp/obj/Debug/net7.0/ref/FirstApp.dll
